@@ -1,3 +1,8 @@
+# This script is forked and modified from the original.
+## This updated version of the script is mainly the exact same, but works with yt-dlp instead.
+
+# Previous README.md:
+
 # youtube-quality
 A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly, as though you were using the web player.
 
